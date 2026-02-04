@@ -6,6 +6,3 @@
 */
 
 basic.showString('Jayden Okafor')
-
-
-
